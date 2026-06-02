@@ -7,7 +7,7 @@
     "start": "node predict.js"
   },
   "engines": {
-    "node": "16.x"
+    "node": ">=20.0.0 <22.0.0"
   },
   "dependencies": {
     "axios": "^1.4.0",
